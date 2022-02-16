@@ -1,4 +1,4 @@
-
+# Kid Court Documentation
 
 # Visual and User Experience Documentation
 - [Link to the video](https://www.youtube.com/watch?v=Lredc1Ecc9o)
