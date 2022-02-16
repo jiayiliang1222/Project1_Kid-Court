@@ -2,7 +2,7 @@
  
 # Visual and User Experience Documentation
 - [Link to the video](https://www.youtube.com/watch?v=Lredc1Ecc9o)
-- Screenshots
+- Screenshots1
 ![Screenshot](Screenshot%200.png)
 
 ![Screenshot](Screenshot1.png)
