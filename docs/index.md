@@ -3,9 +3,9 @@
 # Visual and User Experience Documentation
 - [Link to the video](https://www.youtube.com/watch?v=Lredc1Ecc9o)
 - Screenshots
-![Screenshot](https://github.com/jiayiliang1222/Project1_Kid-Court/blob/main/Screenshots%20and%20Recordings/Screenshot%200.png) 
-![Screenshot](https://github.com/jiayiliang1222/Project1_Kid-Court/blob/main/Screenshots%20and%20Recordings/Screenshot1.png)
-![Screenshot](https://github.com/jiayiliang1222/Project1_Kid-Court/blob/main/Screenshots%20and%20Recordings/Screenshot2.png)
+![Screenshot](Screenshot%200.png) 
+![Screenshot](Screenshot1.png)
+![Screenshot](Screenshot2.png)
 ![Screenshot](https://github.com/jiayiliang1222/Project1_Kid-Court/blob/main/Screenshots%20and%20Recordings/Screenshot3.png)
 ![Screenshot](https://github.com/jiayiliang1222/Project1_Kid-Court/blob/main/Screenshots%20and%20Recordings/Screenshot4.png)
 ![Screenshot](https://github.com/jiayiliang1222/Project1_Kid-Court/blob/main/Screenshots%20and%20Recordings/Screenshot5.png)
