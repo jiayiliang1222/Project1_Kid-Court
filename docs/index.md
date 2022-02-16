@@ -9,9 +9,10 @@
 ![Screenshot](https://github.com/jiayiliang1222/Project1_Kid-Court/blob/main/Screenshots%20and%20Recordings/Screenshot3.png)
 ![Screenshot](https://github.com/jiayiliang1222/Project1_Kid-Court/blob/main/Screenshots%20and%20Recordings/Screenshot4.png)
 ![Screenshot](https://github.com/jiayiliang1222/Project1_Kid-Court/blob/main/Screenshots%20and%20Recordings/Screenshot5.png)
-# Premise and Concept
-- troom as my space is that I want to point out the fact that the world is under the kids’ governance. I think the court might be the best way to reflect how kids own power and authority. 
-# Process Documentation
+## Premise and Concept
+- My imaginary world is a world that is governed by kids. The setting is on earth around hundred years from now. The technology develops so fast that intelligence chips enable everyone to share the same level of knowledge. What makes people different is their creativity. Therefore, in this world, children own higher social status and more power. Thus, the world’s authority officials are all kids instead of adults. I design this world because I find that it is kind of frustrating that kids’ voices are often neglected by adults although they are really a big group. So I built this world that makes the roles of kids and adults reversed.
+The particular space is a kid court. The reason why I choose the courtroom as my space is that I want to point out the fact that the world is under the kids’ governance. I think the court might be the best way to reflect how kids own power and authority. 
+### Process Documentation
 - My Sketch
 - ![Screenshot](https://github.com/jiayiliang1222/Project1_Kid-Court/blob/main/Screenshots%20and%20Recordings/Sketch.jpg)
 - My Storyboard
@@ -29,4 +30,3 @@
 - The first challenge is to find appropriate assets for this space. Since there are rarely worlds like mine, I cannot find any kid-world furniture assets that are already made. What I did is find some cute dessert assets and turn them into furniture. For example, the chocolate bars are used as floors. The second challenge is lighting. I think it is the most time-consuming part in the process as the rendering takes a lot of time. And you have to wait until the very end to see the result. Next time maybe I should switch the lighting step to the final step so that I do it more efficiently. The third challenge is designing which area is the user’s moving area that enables him or her to best enjoy the space. My designed story is that the user is the suspect of violating the anti-candy waste law (inspired by China’s anti-food waste law). So the user will be standing at the building brick of the suspect to make the user immerse in the role. 
 # Final Thoughts
 - It is my first time playing with Unity and I find it quite fun. Although I do think time flies so quickly for this project. I remember one day, I spent a night while at last the progress was so little. For future improvement, I wish I could do more on the user interactions to make it really engaging and interactive.I guess work might be harder and more challenging when the project is going to be imported to Oculus, and I am really looking forward to that. 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
