@@ -19,6 +19,8 @@
 - My imaginary world is a world that is governed by kids. The setting is on earth around hundred years from now. The technology develops so fast that intelligence chips enable everyone to share the same level of knowledge. What makes people different is their creativity. Therefore, in this world, children own higher social status and more power. Thus, the world’s authority officials are all kids instead of adults. I design this world because I find that it is kind of frustrating that kids’ voices are often neglected by adults although they are really a big group. So I built this world that makes the roles of kids and adults reversed.
 The particular space is a kid court. The reason why I choose the courtroom as my space is that I want to point out the fact that the world is under the kids’ governance. I think the court might be the best way to reflect how kids own power and authority.
 # Process Documentation
+- The real court I refer to
+![Sketch](Reference.jpg)
 - My Sketch
 ![Sketch](Sketch.jpg)
 - My Storyboard
