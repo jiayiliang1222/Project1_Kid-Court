@@ -15,6 +15,7 @@
 The particular space is a kid court. The reason why I choose the courtroom as my space is that I want to point out the fact that the world is under the kids’ governance. I think the court might be the best way to reflect how kids own power and authority.
 # Process Documentation
 - The real court I refer to
+- <img src = "https://github.com/jiayiliang1222/Project1_Kid-Court/raw/main/docs/Sample.jpg" width = "400" >
 - My Sketch
 - <img src = "https://github.com/jiayiliang1222/Project1_Kid-Court/raw/main/docs/Sketch.jpg" width = "400" >
 - My Storyboard
