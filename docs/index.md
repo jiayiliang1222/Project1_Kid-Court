@@ -26,7 +26,7 @@ The particular space is a kid court. The reason why I choose the courtroom as my
 - My Storyboard
 ![Storyboard](Storyboard.jpg)
 - Mood Board
-<img src = "https://github.com/jiayiliang1222/Project1_Kid-Court/main/docs/Mood%20Board.jpg" >
+<img src = "https://github.com/jiayiliang1222/Project1_Kid-Court/raw/main/docs/Mood%20Board.jpg" >
 - First Draft
 ![1stDraft](First%20Draft.png)
 - Middle Draft
